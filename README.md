@@ -1,4 +1,12 @@
 ## Hi there 👋
+ Mika
+<img width="1280" height="768" alt="pixai-1938918310675388162-3" src="https://github.com/user-attachments/assets/b8bc69c0-5688-44b6-8d53-4ce4c4155564" />
+<p align="center">Here is a summary of my profile.</p>
+
+
+## About
+<img width="1280" height="768" alt="pixai-1938918310675388162-2" src="https://github.com/user-attachments/assets/dfb728e0-cec1-48da-be20-47aca474ff63" />
+I love Ms. Nekoyama. My avatar adores Cyan-chan. Lately, I've been volunteering as a staff member and beta tester for Vket-related projects.
 
 <!--
 **AiLABfox/AiLABfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
